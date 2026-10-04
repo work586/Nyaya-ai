@@ -4,4 +4,5 @@ numpy
 scikit-learn
 torch
 transformers
-flask reportlab
+flask
+reportlab
