@@ -1,0 +1,7 @@
+pypdf
+pandas
+numpy
+scikit-learn
+torch
+transformers
+flask reportlab
